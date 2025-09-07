@@ -1,6 +1,6 @@
 # Dashboard E-commerce Portfolio 🛒
 
-Painel administrativo de e-commerce feito para portfólio por [Melettz1](https://github.com/Melettz1).<br>
+Painel administrativo de e-commerce feito por [Melettz1](https://github.com/Melettz1).<br>
 
 link da demo: https://dashboard-ecom-eosin.vercel.app/login
 
